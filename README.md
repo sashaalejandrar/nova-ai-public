@@ -42,5 +42,6 @@ ova.json junto al exe:
 |---|---|---|
 | v0.4.0-alpha | Alpha | Dashboard holográfico, voz completa, memoria, recordatorios, manos libres, confirmaciones |
 | v0.5.0-alpha | Alpha | Archivos (leer/escribir/borrar/mover/buscar), visión de pantalla, TTS ElevenLabs seleccionable, VAD adaptativo, wake word mejorado |
+| v0.6.0-alpha | Alpha | Motor TTS propio Piper local con voz daniela, ElevenLabs eliminado, fallback multi-motor |
 
 El código fuente es privado. Este repositorio aloja documentación y releases públicas.
